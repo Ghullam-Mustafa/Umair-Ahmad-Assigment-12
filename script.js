@@ -1,2 +1,2 @@
-var elements = document.getElementsByClassName("abc");
-console.log(elements[0]);
+// var elements = document.getElementsByClassName("abc");
+// console.log(elements[0]);
