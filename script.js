@@ -25,6 +25,14 @@ name()
 
 
 
+// var user = {
+//     firstName : "Ghullam",
+//     lastName : "Mustafa",
+//     city : "Faisalabad",
+//     age : 19 ,
+// }
+// console.log(user.firstName);
+
 
 
 
